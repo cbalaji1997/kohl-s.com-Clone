@@ -38,15 +38,15 @@ Kohls.com is leading E-Commerce website for all type of Clothings for men, women
 ## Screenshots
 
 
-![App Screenshot](./screenshot/Screenshot%20(401).png)
+![App Screenshot](https://miro.medium.com/max/1400/1*ro3zjvIJ03MFGlspJeLx-w.png)
 
-![App Screenshot](./screenshot/Screenshot%20(403).png)
+![App Screenshot](https://miro.medium.com/max/1400/1*0aM7cLIufVRR-3eFythfOQ.png)
 
-![App Screenshot](./screenshot/Screenshot%20(404).png)
+![App Screenshot](https://miro.medium.com/max/1400/1*Rs6UDSBatDiN1WZePzW4OQ.png)
 
-![App Screenshot](./screenshot/Screenshot%20(405).png)
+![App Screenshot](https://miro.medium.com/max/1400/1*alaGfk7Qa4sBeVhYuoqsIg.png)
 
-![App Screenshot](./screenshot/Screenshot%20(406).png)
+![App Screenshot](https://miro.medium.com/max/1400/1*wVAADEawL4OFTbYtnm0_bQ.png)
 
 ## Challenges
 
